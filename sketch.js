@@ -33,7 +33,7 @@ function preload() {
 
 function setup() {
   createCanvas(1000, 700);
-  //song.play();
+  song.play();
 
   circ1 = new circles();
   circ2 = new circles();
